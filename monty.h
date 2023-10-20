@@ -44,7 +44,7 @@ typedef struct instruction_s
  * @tail: points to the last node of the stack (or queue)
  * @fd: file descriptor
  * @buffer: buffer
- * @intarg: integer argument
+ * @intarg: integer arg
  * @mode: mode
 */
 typedef struct mlist_s
